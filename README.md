@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a full-stack software developer, currently mostly active on Node, Python and React Native.
+I’m a full-stack software developer, currently mostly active on Node, Python and React (Native).
 
 - 👷 See some of my work experience at https://www.linkedin.com/in/anamarjanica/
 
