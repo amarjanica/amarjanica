@@ -8,5 +8,4 @@ I’m a full-stack software developer, currently mostly active on Node, Python a
 
 - 👀 Follow me on Youtube https://www.youtube.com/@anasdevscribbles  
 
-![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=amarjanica)
 
